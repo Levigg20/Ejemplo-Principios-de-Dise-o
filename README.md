@@ -1,1 +1,1 @@
-# Ejemplo-Principios-de-Dise-o
+# Ejemplo-Principios-de-Diseño

@@ -22,6 +22,6 @@ A su vez cada tipo de producto lleva alguna información especifica. Los product
 
 El objetivo final del programa es que debe, a forma de inventario, mostrar la información de cada uno de los productos que se van registrando en el sistema
 
-##Diagrama de Clases
+## Diagrama de Clases
 
 ![Diagrama de Clases](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Class Diagram")
